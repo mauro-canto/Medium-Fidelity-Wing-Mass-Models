@@ -1,0 +1,45 @@
+                      _________________
+                     | INPUT_DATA_FILE |
+                     |_________________|
+
+     /\        WARNING NOTE: Do not change under any circumstance
+    /  \       the structure of the current data input file.
+   / !! \      Do not add or remove neither lines nor symbols
+  / !!!! \     of any kind, just change the names and values of
+ / !!!!!! \    the corresponding parameters in the right hand
+/__________\   side column.
+
+--------------------------AVL_Files--------------------------
+<total_forces_file_name>                    Total_Forces.txt
+<shear_and_moment_file_name>                Shear_Moment.txt
+<strip_forces_file_name>                    Strip_Forces.txt
+
+------------------------Airfoil_File-------------------------
+<airfoil_points_file_name>                  NACA_0015.txt
+
+-------------------Flight_Conditions_Data--------------------
+<altitude_[m]>                              3000
+<velocity_[m/s]>                            69
+<reference_surface_[m^2]>                   9.34
+<span_[m]>                                  6.4
+
+-----------------------Material_Data-------------------------
+<stringer_yield_stress_[MPa]>               240
+<skin_yield_stress_[MPa]>                   240
+<stringer_elastic_modulus_[GPa]             70
+<skin_elastic_modulus_[GPa]                 70
+<stringer_material_density_[kg/m^3]>        2700
+<skin_material_density_[kg/m^3]>            2700
+
+------------------Structural_Elements_Data-------------------
+<stringer_type>                             Z
+<web_minimum_length_[mm]>                   10
+<web_maximum_length_[mm]>                   20
+<flange_length_proportion_[-]>              0.5
+<web_minimum_thickness_[mm]>                1
+<web_maximum_thickness_[mm]>                3
+<flange_thickness_proportion_[-]>           1
+<stringer_reserve_factor_[-]>               1.5
+<skin_minimum_thickness_[mm]>               1
+<skin_maximum_thickness_[mm]>               5
+<skin_reserve_factor_[-]>                   1.5

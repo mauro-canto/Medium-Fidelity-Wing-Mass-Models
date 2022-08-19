@@ -1,0 +1,36 @@
+ ---------------------------------------------------------------
+ Vortex Lattice Output -- Total Forces
+
+ Configuration: Boeing X-48B                                                
+     # Surfaces =   4
+     # Strips   =  50
+     # Vortices = 500
+
+  Sref =  9.3500       Cref =  1.4600       Bref =  6.4000    
+  Xref =  0.0000       Yref =  0.0000       Zref =  0.0000    
+
+ Standard axis orientation,  X fwd, Z down         
+
+ Run case:  -unnamed-                              
+
+  Alpha =   0.08028     pb/2V =  -0.00000     p'b/2V =  -0.00000
+  Beta  =   0.00000     qc/2V =   0.00000
+  Mach  =     0.000     rb/2V =  -0.00000     r'b/2V =  -0.00000
+
+  CXtot =  -0.00081     Cltot =  -0.00000     Cl'tot =  -0.00000
+  CYtot =   0.00000     Cmtot =  -0.14552
+  CZtot =  -0.10981     Cntot =  -0.00000     Cn'tot =  -0.00000
+
+  CLtot =   0.10980
+  CDtot =   0.00096
+  CDvis =   0.00000     CDind = 0.0009602
+  CLff  =   0.10979     CDff  = 0.0009684    | Trefftz
+  CYff  =   0.00000         e =    0.9044    | Plane  
+
+   Elevon1         =   0.00000
+   Elevon2         =   0.00000
+   Elevon3         =   0.00000
+   Aileron1        =   0.00000
+   Aileron2        =   0.00000
+
+ ---------------------------------------------------------------
